@@ -1,9 +1,15 @@
 [
     {
       "name": "Uninstall Tool",
-      "logo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Ny83Nzc3Nzc3Ljc3Nzc3MjcvNf/AABEIACAAIAMBEQACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAEBwMFBgL/xAAvEAABAwIEBAQFBQAAAAAAAAABAgMEBREABhIhMUFRcRNhgbEHIjKCoRQVUnKy/8QAGgEAAgMBAQAAAAAAAAAAAAAAAAQCAwUGAf/EAC4RAAEDAgQDBQkAAAAAAAAAAAEAAgMEERIhMZFRodEFJEGB8BMUIiMycYKxwf/aAAwDAQACEQMRAD8Aa+blq/ZlxmjZyW4iOn7lC/4vhqiA9sHHQZ7JSucRAQ3U5b5KOVTzBGqHVXI3MNuDxE+g4++K31bQMUwFtl57oIx8pxbzHNRxK1NU24PCblKb+otXCR3Udh2xmy9oRyDujC7kN1ON8hOEfF9svXktDhxMpa52zzFoeeYUCroWIEVlMoLaRqUVq1p38hb3wzBI1jHtOpFhvmlKmN7nsc0XANyPLLVdMVVyora8OI9Mkywp6My6oNJW3rOkm9uR536WxzjqTHKXPGI3Nr6AX4dVo9n0cUzDNVOsAbf0ZDX1mi5bMhptK67WEMNoFxEhJAA+4j/KRimorYmHACXu4N66D9rbjkiYO7xfk7p1JQVBza0zWYVJpSVKiPyNK/FUVn5uJCjve++5Pph6gFZm6ewB0HiPNZlbMyV2K93cQLDZY34wQnKn8REx4iUOvqjMNpbVwJKlEX8t/fGkkUXn7NVNoVYrLVJZeczC+03HdkqVdmOkWNkgniOgFr79bwfG2Rpa4ZHJSa4t0VQ5WFO1J1+pM/rUAq0MKcKUXvtqtuQOl/XFFNRw0zcMQspyzPl+o5cPBF5Ul+NnKmPOhpsuS0nS2kJSCeQHIYaVSbtfYU/VYSmYSXZDCVKYfLYJQs/L9XIAXJ67DAhJrOHwzr1LU/ObSqqMuqU4t1hN3EE/yTxPdN+wwIRlAyLXK9IK1MqgRCokyJKDc/1RsT+B54EJtZZyhScuI1Q2S5KIsuU8dS1duSR5C2BC/9k=",
+      "logo": "images/Uninstall Tool.jpg",
       "description": "Uninstall Tool 是一款便携版的卸载工具，主要用于 彻底卸载 Windows 程序，比系统自带的“添加或删除程序”更彻底、更专业。",
       "download": "/files/Uninstall-Tool.zip"
+    },
+    {
+      "name": "IObit Unlocker",
+      "logo": "images/IObit Unlocker.png",
+      "description": "IObit Unlocker 是一款主要用于解决文件和文件夹被锁定或无法删除的问题。许多用户在使用计算机时可能会遇到一些文件无法删除或移动的情况，这通常是因为这些文件正在被某个程序使用或被操作系统占用，导致它们被“锁定”。",
+      "download": "/files/unlocker-setup.exe"
     }
   ]
   
